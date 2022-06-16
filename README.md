@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Arisfir
 - 👀 I’m interested in programming go language
 - 🌱 I’m currently learning go language
-- 💞️ I’m looking for future wife
 - 📫 How to reach me "arisfirmansyh29@gmail.com
 
 <!---
